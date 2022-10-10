@@ -35,3 +35,8 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+.link {
+  text-align: center;
+  margin-top: 0px;
+  padding: 0;
+}
